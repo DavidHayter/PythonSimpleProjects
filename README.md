@@ -1,2 +1,3 @@
-# tictactoe
-A simple tictactoe game for educational content.
+# Simple Projects 
+
+Simple projects written in Python.
